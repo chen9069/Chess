@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/780/trunk/eclipse/src/org/chenji/hw7/client
+END
+LoginServiceAsync.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/780/trunk/eclipse/src/org/chenji/hw7/client/LoginServiceAsync.java
+END
+Player.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/780/trunk/eclipse/src/org/chenji/hw7/client/Player.java
+END
+LoginService.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/780/trunk/eclipse/src/org/chenji/hw7/client/LoginService.java
+END
+Main.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/780/trunk/eclipse/src/org/chenji/hw7/client/Main.java
+END
+GameService.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/883/trunk/eclipse/src/org/chenji/hw7/client/GameService.java
+END
+GameServiceAsync.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/883/trunk/eclipse/src/org/chenji/hw7/client/GameServiceAsync.java
+END
+Match.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/889/trunk/eclipse/src/org/chenji/hw7/client/Match.java
+END
+LoginInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/780/trunk/eclipse/src/org/chenji/hw7/client/LoginInfo.java
+END

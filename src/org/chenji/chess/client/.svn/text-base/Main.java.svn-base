@@ -1,0 +1,24 @@
+package org.chenji.hw7.client;
+
+import java.util.*;
+
+public class Main {
+public static void main(String args[]) {
+  Match match = new Match(1, "a", "b");
+  match.setDeleted(true);
+  String s = match.toString();
+  System.out.println(s);
+  Match m = Match.deserializeFrom(s);
+  String key = "Match: " + 1 + "; Opponent: " + 2;
+  List<Match> list= new ArrayList<Match>();
+  list.add(new Match(0));
+  list.add(new Match(1));
+  for (Match match1 : list) {
+    match1 = new Match(3);
+  }
+  for (Match match1 : list) {
+    int matchId = match1.getMatchId();
+    System.out.println(matchId);
+  }
+}
+}

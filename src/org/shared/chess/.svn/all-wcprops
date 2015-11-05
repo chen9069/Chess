@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/331/trunk/eclipse/src/org/shared/chess
+END
+Piece.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/61/trunk/eclipse/src/org/shared/chess/Piece.java
+END
+GameResultReason.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/61/trunk/eclipse/src/org/shared/chess/GameResultReason.java
+END
+Color.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/87/trunk/eclipse/src/org/shared/chess/Color.java
+END
+PieceKind.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/61/trunk/eclipse/src/org/shared/chess/PieceKind.java
+END
+Move.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/61/trunk/eclipse/src/org/shared/chess/Move.java
+END
+IllegalMove.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/69/trunk/eclipse/src/org/shared/chess/IllegalMove.java
+END
+StateExplorer.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/331/trunk/eclipse/src/org/shared/chess/StateExplorer.java
+END
+State.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/191/trunk/eclipse/src/org/shared/chess/State.java
+END
+Position.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/61/trunk/eclipse/src/org/shared/chess/Position.java
+END
+StateChanger.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/61/trunk/eclipse/src/org/shared/chess/StateChanger.java
+END
+GameResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/89/trunk/eclipse/src/org/shared/chess/GameResult.java
+END

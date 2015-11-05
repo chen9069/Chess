@@ -1,0 +1,547 @@
+8
+
+dir
+788
+https://nyu-gaming-course-2013.googlecode.com/svn/trunk/eclipse/src/org
+https://nyu-gaming-course-2013.googlecode.com/svn
+
+
+
+2013-04-02T22:04:03.525538Z
+788
+bohoulee
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f264bf1e-4cce-b22a-f187-13df71f9827a
+
+AlexanderOskotsky.gwt.xml
+file
+
+
+
+
+2013-04-02T22:29:05.000000Z
+e7ffb76be282fd52c397decc660e2939
+2013-03-26T21:13:34.864300Z
+709
+Alex.Oskotsky@gmail.com
+
+AliShah.gwt.xml
+file
+
+
+
+
+2013-04-05T17:40:37.000000Z
+469c1b9f6bf86d0e8ad121d456082bb2
+2013-04-02T20:45:55.070833Z
+778
+thealishah@gmail.com
+has-props
+
+BohouLi.gwt.xml
+file
+
+
+
+
+2013-04-02T22:29:49.000000Z
+9005588e08a6a9dbd720cb4dad761b1a
+2013-03-27T18:08:32.060992Z
+726
+bohoulee
+has-props
+
+CorinneTaylor.gwt.xml
+file
+
+
+
+
+2013-04-02T22:28:34.000000Z
+a260b143f9c5aca10271a66e4eeb7674
+2013-03-11T23:16:13.506366Z
+599
+corinnetaylor858
+has-props
+
+HaoxiangZuo.gwt.xml
+file
+
+
+
+
+2013-04-02T22:29:34.000000Z
+431c151f3bc33f9029bb1c181ff4692f
+2013-03-12T19:43:33.501825Z
+612
+haoxiangzuo
+
+HarshMehta.gwt.xml
+file
+
+
+
+
+2013-04-02T22:28:32.000000Z
+da391684d9e481bce224ba1afa708d92
+2013-03-26T20:15:17.369543Z
+685
+hamehta3
+
+JiangfengChen.gwt.xml
+file
+
+
+
+
+2013-04-02T22:28:53.000000Z
+1084ed59416a89a871756052ac9bff98
+2013-03-26T18:46:30.556875Z
+682
+Kanppa
+
+KanWang.gwt.xml
+file
+
+
+
+
+2013-04-02T22:29:32.000000Z
+2a229e8e4de55f49f7e8381db6313de1
+2013-03-26T23:01:48.247495Z
+717
+kerrywang881122@gmail.com
+has-props
+
+KuangCheLee.gwt.xml
+file
+
+
+
+
+2013-04-02T22:28:40.000000Z
+2e742a84424cd9436549564330b178bc
+2013-03-26T18:34:33.475642Z
+681
+qfoxer@gmail.com
+
+LeoZis.gwt.xml
+file
+
+
+
+
+2013-04-02T22:29:27.000000Z
+d6b163fa520740fbec5103f51ab497d2
+2013-04-01T22:38:49.485311Z
+756
+LeoZis
+
+LongjunTan.gwt.xml
+file
+
+
+
+
+2013-04-02T22:29:49.000000Z
+76562181de4cb4da5ef2fd8e7c4976b7
+2013-03-26T20:59:13.263298Z
+699
+longjuntan@gmail.com
+has-props
+
+MarkAnderson.gwt.xml
+file
+
+
+
+
+2013-04-02T22:29:49.000000Z
+e3cb07154b14d8a699d8c42c35dcff8d
+2013-03-26T07:17:17.069075Z
+680
+markmakingmusic@gmail.com
+has-props
+
+MengyanHuang.gwt.xml
+file
+
+
+
+
+2013-04-02T22:28:42.000000Z
+42093a887eab5937c985c5ca67bdb569
+2013-03-26T21:42:30.723844Z
+713
+aimeehwang90@gmail.com
+has-props
+
+ShihWeiHuang.gwt.xml
+file
+
+
+
+
+2013-04-02T22:28:32.000000Z
+d062176c246d0c29a117c25556ee7b1f
+2013-03-26T20:58:28.944684Z
+696
+loptyc@gmail.com
+
+ShitianRen.gwt.xml
+file
+
+
+
+
+2013-04-02T22:29:43.000000Z
+9e9cf52bff398c80dafc76587056fe7c
+2013-03-05T21:01:06.601754Z
+530
+renshitian@gmail.com
+
+SimonGellis.gwt.xml
+file
+
+
+
+
+2013-04-02T22:29:49.000000Z
+e7bce4ab198954d1d040af16d47f595b
+2013-04-02T20:39:22.699263Z
+775
+simongellis@gmail.com
+has-props
+
+VoraSahil.gwt.xml
+file
+
+
+
+
+2013-04-02T22:28:34.000000Z
+758d79f9798e9292a320477e1aecadcb
+2013-03-26T20:18:51.320856Z
+686
+vora.sahil
+
+YoavZibin.gwt.xml
+file
+
+
+
+
+2013-04-02T22:29:50.000000Z
+e4a458afb6ec37825d2a025ccad9e44c
+2013-02-26T02:52:02.673981Z
+468
+yoav.zibin@gmail.com
+has-props
+
+YuehLinChung.gwt.xml
+file
+
+
+
+
+2013-04-02T22:29:02.000000Z
+64aa9e5661aeee9362b76bc1db4beef3
+2013-04-02T19:06:22.109921Z
+770
+felixjon2000@gmail.com
+has-props
+
+ZhaohuiZhang.gwt.xml
+file
+
+
+
+
+2013-04-02T22:29:17.000000Z
+3e0a6657fd6f32829a5d4583eba9a952
+2013-04-01T20:19:57.199099Z
+754
+bravezhaohui@gmail.com
+
+adamjackrel
+dir
+
+alexanderoskotsky
+dir
+
+alishah
+dir
+
+
+
+delete
+
+ashishmanral
+dir
+
+
+
+delete
+
+ashishmanral.gwt.xml
+file
+
+
+
+
+2013-04-02T22:29:44.000000Z
+0142efbcf812fd0fa15aca6f3b8bebba
+2013-04-02T20:36:31.987108Z
+774
+ashish.manral09@gmail.com
+has-props
+
+bohouli
+dir
+
+
+
+delete
+
+bohuang
+dir
+
+
+
+delete
+
+bohuang.gwt.xml
+file
+
+
+
+
+2013-04-02T22:29:32.000000Z
+9ef9fe952858bdecf659301a73203c74
+2013-03-05T20:53:45.162797Z
+528
+fantasyblake1213@gmail.com
+has-props
+
+chenji
+dir
+
+chenji.gwt.xml
+file
+883
+
+
+
+2013-04-22T03:50:20.000000Z
+80cd4062ef21d816a22c3c51948f243c
+2013-04-22T03:55:46.104283Z
+883
+Ji.Chen1990@gmail.com
+
+client
+dir
+
+corinnetaylor
+dir
+
+
+
+delete
+
+haoxiangzuo
+dir
+
+
+
+delete
+
+harshmehta
+dir
+
+jiangfengchen
+dir
+
+kanwang
+dir
+
+karthikmahadevan
+dir
+
+karthikmahadevan.gwt.xml
+file
+
+
+
+
+2013-04-02T22:28:39.000000Z
+f5c7c6e22bc23e3d8c875a5779258b6a
+2013-03-27T04:00:14.866328Z
+723
+karthikjey@gmail.com
+has-props
+
+kuangchelee
+dir
+
+leozis
+dir
+
+longjuntan
+dir
+
+markanderson
+dir
+
+mengyanhuang
+dir
+
+paulsulltan.gwt.xml
+file
+
+
+
+
+2013-04-02T22:29:49.000000Z
+35604caf23fc9030d462c6dcb8eea5e8
+2013-04-02T19:00:15.938163Z
+769
+paul.sultan
+has-props
+
+paulsultan
+dir
+
+
+
+delete
+
+peigenyou
+dir
+
+
+
+delete
+
+peigenyou.gwt.xml
+file
+
+
+
+
+2013-04-02T22:29:43.000000Z
+c3db60526fac177c68ce87b72ea00797
+2013-04-02T15:21:26.646768Z
+765
+fusubacon@gmail.com
+
+sanjana
+dir
+
+sanjana.gwt.xml
+file
+
+
+
+
+2013-04-02T22:29:12.000000Z
+e6f144d9449239fa2ff84ff1d7c60767
+2013-04-02T20:00:21.749619Z
+772
+coolbarbie2004@gmail.com
+
+shared
+dir
+
+shihweihuang
+dir
+
+
+
+delete
+
+shihweihuangserver
+dir
+
+
+
+delete
+
+shitianren
+dir
+
+simongellis
+dir
+
+vorasahil
+dir
+
+wenjiechen
+dir
+
+wenjiechen.gwt.xml
+file
+
+
+
+
+2013-04-02T22:29:49.000000Z
+3affbc0a93e0c396330392b5b078a692
+2013-03-28T22:21:59.996007Z
+738
+cwjcourage@gmail.com
+has-props
+
+yoavzibin
+dir
+
+yuanjia
+dir
+
+yuanjia.gwt.xml
+file
+
+
+
+
+2013-04-02T22:29:35.000000Z
+221e8eb566511e590cd4e2a939b3d39f
+2013-03-26T21:45:31.494573Z
+714
+jiayuan6311@gmail.com
+has-props
+
+yuehlinchung
+dir
+
+zhaohuizhang
+dir
+
+zhihanli
+dir
+
+zhihanli.gwt.xml
+file
+
+
+
+
+2013-04-02T22:29:49.000000Z
+d0df636b9ef25325eaf0f7a804761c32
+2013-03-26T20:09:14.252059Z
+684
+lizhihan1211@gmail.com
+has-props
+
